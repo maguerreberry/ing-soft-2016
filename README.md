@@ -22,3 +22,4 @@ Wolfmann Fabian, 39073116
 Giralda, Yamil 34590903
 Barrera, Cesar 12654897
 Tomattis, Natasha 38728783
+Gonzalez, Gustavo 7721064
