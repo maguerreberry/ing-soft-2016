@@ -23,3 +23,4 @@ Giralda, Yamil 34590903
 Barrera, Cesar 12654897
 Tomattis, Natasha 38728783
 Gonzalez, Gustavo 7721064
+Lazos, David 37125285
