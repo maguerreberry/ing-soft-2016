@@ -12,9 +12,6 @@ Nicolaide, Christian, 38180194
 Zimmel, Ezequiel, 33382573
 Bado, Ignacio, 36139102
 Gatica Rodriguez, Carolina 35530890
-DETKE, Ramiro 38122152
-Castro, Pedro , 36187007
-D'Andrea, Franco David 
 Perez, Federico 37053195
 Rivero Franco, 38111351
 Wolfmann Fabian, 39073116
@@ -36,3 +33,11 @@ Perez, Federico 37053195
 Alaniz, Alvaro Gaston
 
 Arreguez, Joaquin Eduardo
+
+####Grupo SoftDuino
+
+DETKE, Ramiro 38122152
+
+Castro, Pedro , 36187007
+
+D'Andrea, Franco David
