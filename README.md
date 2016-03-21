@@ -25,16 +25,9 @@ Tomattis, Natasha 38728783
 Gonzalez, Gustavo 7721064
 Lazos, David 37125285
 
-Wolfmann Fabian
-Pasaglia Nicolas
-Colazo Agustin
+####Grupo ZorroUno
 
+Giralda, Yamil
 
-####Grupo SegFault
-
-Perez, Federico 37053195
-
-Alaniz, Alvaro Gaston
-
-Arreguez, Joaquin Eduardo
+Barrera, Cesar
 
