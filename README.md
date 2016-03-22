@@ -13,6 +13,7 @@ Zimmel, Ezequiel, 33382573
 Bado, Ignacio, 36139102
 Gatica Rodriguez, Carolina 35530890
 Perez, Federico 37053195
+Arreguez, Joaquin Eduardo 36429953
 Rivero Franco, 38111351
 Wolfmann Fabian, 39073116
 Giralda, Yamil 34590903
@@ -29,28 +30,21 @@ Colazo Agustin
 D'Andrea, David
 
 
-####Grupo SegFault
-
+#### Grupo SegFault
 Perez, Federico 37053195
-
 Alaniz Ferreyra, Alvaro Gaston 35965627
+Arreguez, Joaquin Eduardo 36429953
 
-Arreguez, Joaquin Eduardo
 
-####Grupo SoftDuino
-
+#### Grupo SoftDuino
 DETKE, Ramiro 38122152
-
 Castro, Pedro , 36187007
 
+
 #### Grupo Cuarteto Digital
-
 Di Lorenzo, Franco, 37619687
-
 Del Boca, Juan, 37850419
-
 Maero, Facundo, 38479441
-
 Gonzáles, Gustavo, 7721064
 
 
