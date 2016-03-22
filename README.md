@@ -28,7 +28,6 @@ Pasaglia Nicolas
 Colazo Agustin
 
 
-SegFault
 ####Grupo SegFault
 
 Perez, Federico 37053195
