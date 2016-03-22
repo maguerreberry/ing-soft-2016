@@ -51,6 +51,14 @@ Del Boca, Juan, 37850419
 
 Maero, Facundo, 38479441
 
-Gonz�les, Gustavo, 7721064
+Gonzáles, Gustavo, 7721064
 
+#### Grupo Mate
 
+Bado, Ignacio
+
+Heredia, Marco
+
+Sosa Ludueña, Diego
+
+Vazquez, Franco
