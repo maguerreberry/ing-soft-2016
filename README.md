@@ -28,11 +28,12 @@ Pasaglia Nicolas
 Colazo Agustin
 
 
+SegFault
 ####Grupo SegFault
 
 Perez, Federico 37053195
 
-Alaniz, Alvaro Gaston
+Alaniz Ferreyra, Alvaro Gaston 35965627
 
 Arreguez, Joaquin Eduardo
 
