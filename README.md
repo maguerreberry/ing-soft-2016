@@ -26,6 +26,7 @@ Callejo, Alejandro 32913074
 Wolfmann Fabian
 Pasaglia Nicolas
 Colazo Agustin
+D'Andrea, David
 
 
 ####Grupo SegFault
